@@ -1,98 +1,98 @@
 [
     {
-        "id":1,
+        "id":0,
         "src":"/img/dkf1.jpg",
         "name":"도비 스페셜 10kg",
-        "price":"27,100"
+        "price":"27100"
+    },
+    {
+        "id":1,
+        "src":"/img/dkf2.jpg",
+        "name":"도비 프로페셔녈 10kg",
+        "price":"26130"
     },
     {
         "id":2,
-        "src":"/img/dkf2.jpg",
-        "name":"도비 프로페셔녈 10kg",
-        "price":"26,130"
+        "src":"/img/dkf3.jpg",
+        "name":"도비 다이어트 3kg",
+        "price":"15200"
     },
     {
         "id":3,
-        "src":"/img/dkf3.jpg",
-        "name":"도비 다이어트 3kg",
-        "price":"15,200"
+        "src":"/img/dkf4.jpg",
+        "name":"도비 어덜트 4.5kg",
+        "price":"22600"
     },
     {
         "id":4,
-        "src":"/img/dkf4.jpg",
-        "name":"도비 어덜트 4.5kg",
-        "price":"22,600"
+        "src":"/img/dkf5.jpg",
+        "name":"도비 시니어 5kg",
+        "price":"22300"
     },
     {
         "id":5,
-        "src":"/img/dkf5.jpg",
-        "name":"도비 시니어 5kg",
-        "price":"22,300"
+        "src":"/img/dkf6.jpg",
+        "name":"옵티원 연어 오트밀 4.8kg",
+        "price":"34000"
     },
     {
         "id":6,
-        "src":"/img/dkf6.jpg",
-        "name":"옵티원 연어 오트밀 4.8kg",
-        "price":"34,000"
+        "src":"/img/dkf7.jpg",
+        "name":"옵티원 양고기 고구마 4.8kg",
+        "price":"34000"
     },
     {
         "id":7,
-        "src":"/img/dkf7.jpg",
-        "name":"옵티원 양고기 고구마 4.8kg",
-        "price":"34,000"
+        "src":"/img/dkf8.jpg",
+        "name":"옵티원 오리현미 1kg",
+        "price":"11200"
     },
     {
         "id":8,
-        "src":"/img/dkf8.jpg",
-        "name":"옵티원 오리현미 1kg",
-        "price":"11,200"
+        "src":"/img/dkf9.jpg",
+        "name":"CJ 홈도그 5kg",
+        "price":"11200"
     },
     {
         "id":9,
-        "src":"/img/dkf9.jpg",
-        "name":"CJ 홈도그 5kg",
-        "price":"11,200"
+        "src":"/img/dkf10.jpg",
+        "name":"CJ 오프레시 닭고기와 쌀 1.3kg",
+        "price":"8400"
     },
     {
         "id":10,
-        "src":"/img/dkf10.jpg",
-        "name":"CJ 오프레시 닭고기와 쌀 1.3kg",
-        "price":"8,400"
+        "src":"/img/dkf11.jpg",
+        "name":"CJ 오프레시 소고기와 오트밀 1.3kg",
+        "price":"8400"
     },
     {
         "id":11,
-        "src":"/img/dkf11.jpg",
-        "name":"CJ 오프레시 소고기와 오트밀 1.3kg",
-        "price":"8,400"
+        "src":"/img/dkf12.jpg",
+        "name":"CJ 오프레시 양고기와 야채 1.3kg",
+        "price":"8400"
     },
     {
         "id":12,
-        "src":"/img/dkf12.jpg",
-        "name":"CJ 오프레시 양고기와 야채 1.3kg",
-        "price":"8,400"
+        "src":"/img/dkf13.jpg",
+        "name":"CJ 오프레시 오리고기와 감자 1.3kg",
+        "price":"8400"
     },
     {
         "id":13,
-        "src":"/img/dkf13.jpg",
-        "name":"CJ 오프레시 오리고기와 감자 1.3kg",
-        "price":"8,400"
-    },
-    {
-        "id":14,
         "src":"/img/dkf14.jpg",
         "name":"CJ 오프레시 퍼피 1.3kg",
-        "price":"9,900"
+        "price":"9900"
     },
     {
         "id":15,
         "src":"/img/dkf15.jpg",
         "name":"CJ 오프레시 어덜트 1.3kg",
-        "price":"9,900"
+        "price":"9900"
     },
     {
-        "id":16,
+        "id":14,
         "src":"/img/dkf16.jpg",
         "name":"CJ 오프레시 시니어 1.3kg",
-        "price":"9,900"
+        "price":"9900"
     }
 ]
