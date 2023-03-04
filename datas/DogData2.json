@@ -1,80 +1,50 @@
 [
     {
-        "id":1,
-        "src":"./../img/dif1.jpg",
+        "id":0,
+        "src":"/DogCatShop/img/dif1.jpg",
         "name":"토우 훈제연어&고구마독 1.2kg",
-        "price":"17,900"
+        "price":"17900"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/dif2.jpg",
+        "name":"토우 훈제연어&고구마퍼피 1.2kg",
+        "price":"17900"
     },
     {
         "id":2,
-        "src":"./../img/dif2.jpg",
-        "name":"토우 훈제연어&고구마퍼피 1.2kg",
-        "price":"17,900"
+        "src":"/DogCatShop/img/dif3.jpg",
+        "name":"토우 구운오리&고구마독 1.2kg",
+        "price":"17900"
     },
     {
         "id":3,
-        "src":"./../img/dif3.jpg",
-        "name":"토우 구운오리&고구마독 1.2kg",
-        "price":"17,900"
+        "src":"/DogCatShop/img/dif4.jpg",
+        "name":"피엔피 수제사료 완두콩과 양고기 900kg",
+        "price":"12400"
     },
     {
         "id":4,
-        "src":"./../img/dif4.jpg",
-        "name":"피엔피 수제사료 완두콩과 양고기 900kg",
-        "price":"12,400"
+        "src":"/DogCatShop/img/dif5.jpg",
+        "name":"피엔피 수제사료 완두콩과 소고기 900kg",
+        "price":"12400"
     },
     {
         "id":5,
-        "src":"./../img/dif5.jpg",
-        "name":"피엔피 수제사료 완두콩과 소고기 900kg",
-        "price":"12,400"
+        "src":"/DogCatShop/img/dif6.jpg",
+        "name":"네츄럴코어 ECO9b 유기농 시니어 살몬",
+        "price":"13500"
     },
     {
         "id":6,
-        "src":"./../img/dif6.jpg",
-        "name":"네츄럴코어 ECO9b 유기농 시니어 살몬",
-        "price":"13,500"
+        "src":"/DogCatShop/img/dif7.jpg",
+        "name":"네츄럴코어 ECO6 유기농 시니어 오리&고구마",
+        "price":"13500"
     },
     {
         "id":7,
-        "src":"/img/dif7.jpg",
-        "name":"네츄럴코어 ECO6 유기농 시니어 오리&고구마",
-        "price":"13,500"
-    },
-    {
-        "id":8,
-        "src":"/img/dif8.jpg",
+        "src":"/DogCatShop/img/dif8.jpg",
         "name":"네츄럴코어 ECO8 유기농 M/P 노그레인",
-        "price":"14,000"
-    },
-    {
-        "id":9,
-        "src":"/img/dif9.jpg",
-        "name":"로얄캐닌 독 미니/다이제스티브 2kg",
-        "price":"24,400"
-    },
-    {
-        "id":10,
-        "src":"/img/dif10.jpg",
-        "name":"로얄캐닌 독 미니/라이트웨이트케어 2kg",
-        "price":"24,000"
-    },
-    {
-        "id":11,
-        "src":"/img/dif11.jpg",
-        "name":"로얄캐닌 스타터무스/마더&베이비독",
-        "price":"3,100"
-    },
-    {
-        "id":12,
-        "src":"/img/dif12.jpg",
-        "name":"로얄캐닌 독 주니어",
-        "price":"3,100"
-    },
-    {
-        "id":13,
-        "src":"/img/dif13.jpg",
-        "name":"로얄캐닌 어덜트 뷰티",
-        "price":"3,100"
+        "price":"14000"
     }
 ]

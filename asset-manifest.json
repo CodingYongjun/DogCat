@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DogCatShop/static/css/main.f83f05d1.css",
-    "main.js": "/DogCatShop/static/js/main.cafa9b46.js",
+    "main.js": "/DogCatShop/static/js/main.3998cba6.js",
     "static/js/787.9948979a.chunk.js": "/DogCatShop/static/js/787.9948979a.chunk.js",
     "static/media/slick.svg": "/DogCatShop/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/DogCatShop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/DogCatShop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/DogCatShop/index.html",
     "main.f83f05d1.css.map": "/DogCatShop/static/css/main.f83f05d1.css.map",
-    "main.cafa9b46.js.map": "/DogCatShop/static/js/main.cafa9b46.js.map",
+    "main.3998cba6.js.map": "/DogCatShop/static/js/main.3998cba6.js.map",
     "787.9948979a.chunk.js.map": "/DogCatShop/static/js/787.9948979a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f83f05d1.css",
-    "static/js/main.cafa9b46.js"
+    "static/js/main.3998cba6.js"
   ]
 }
