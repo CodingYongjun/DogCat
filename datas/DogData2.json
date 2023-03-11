@@ -2,49 +2,57 @@
     {
         "id":0,
         "src":"/DogCatShop/img/dif1.jpg",
-        "name":"토우 훈제연어&고구마독 1.2kg",
-        "price":"17900"
+        "title":"토우 훈제연어&고구마독 1.2kg",
+        "price":"17900",
+        "origin":"수입산"
     },
     {
         "id":1,
         "src":"/DogCatShop/img/dif2.jpg",
-        "name":"토우 훈제연어&고구마퍼피 1.2kg",
-        "price":"17900"
+        "title":"토우 훈제연어&고구마퍼피 1.2kg",
+        "price":"17900",
+        "origin":"수입산"
     },
     {
         "id":2,
         "src":"/DogCatShop/img/dif3.jpg",
-        "name":"토우 구운오리&고구마독 1.2kg",
-        "price":"17900"
+        "title":"토우 구운오리&고구마독 1.2kg",
+        "price":"17900",
+        "origin":"수입산"
     },
     {
         "id":3,
         "src":"/DogCatShop/img/dif4.jpg",
-        "name":"피엔피 수제사료 완두콩과 양고기 900kg",
-        "price":"12400"
+        "title":"피엔피 수제사료 완두콩과 양고기 900kg",
+        "price":"12400",
+        "origin":"수입산"
     },
     {
         "id":4,
         "src":"/DogCatShop/img/dif5.jpg",
-        "name":"피엔피 수제사료 완두콩과 소고기 900kg",
-        "price":"12400"
+        "title":"피엔피 수제사료 완두콩과 소고기 900kg",
+        "price":"12400",
+        "origin":"수입산"
     },
     {
         "id":5,
         "src":"/DogCatShop/img/dif6.jpg",
-        "name":"네츄럴코어 ECO9b 유기농 시니어 살몬",
-        "price":"13500"
+        "title":"네츄럴코어 ECO9b 유기농 시니어 살몬",
+        "price":"13500",
+        "origin":"수입산"
     },
     {
         "id":6,
         "src":"/DogCatShop/img/dif7.jpg",
-        "name":"네츄럴코어 ECO6 유기농 시니어 오리&고구마",
-        "price":"13500"
+        "title":"네츄럴코어 ECO6 유기농 시니어 오리&고구마",
+        "price":"13500",
+        "origin":"수입산"
     },
     {
         "id":7,
         "src":"/DogCatShop/img/dif8.jpg",
-        "name":"네츄럴코어 ECO8 유기농 M/P 노그레인",
-        "price":"14000"
+        "title":"네츄럴코어 ECO8 유기농 M/P 노그레인",
+        "price":"14000",
+        "origin":"수입산"
     }
 ]

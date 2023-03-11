@@ -1,50 +1,58 @@
 [
     {
+        "id":0,
+        "src":"/DogCatShop/img/d1.jpg",
+        "title":"스파클 발레리나 드레스 블랙",
+        "price":"48000",
+        "origin":"국내산"
+    },
+    {
         "id":1,
-        "src":"/img/d1.jpg",
-        "name":"스파클 발레리나 드레스 블랙",
-        "price":"48,000"
+        "src":"/DogCatShop/img/d2.jpg",
+        "title":"스쿠피 독 매쉬 크롭 탑 화이트",
+        "price":"33000",
+        "origin":"국내산"
     },
     {
         "id":2,
-        "src":"/img/d2.jpg",
-        "name":"스쿠피 독 매쉬 크롭 탑 화이트",
-        "price":"33,000"
+        "src":"/DogCatShop/img/d3.jpg",
+        "title":"스마일리 코튼 크롭탑 블루",
+        "price":"36000",
+        "origin":"국내산"
     },
     {
         "id":3,
-        "src":"/img/d3.jpg",
-        "name":"스마일리 코튼 크롭탑 블루",
-        "price":"36,000"
+        "src":"/DogCatShop/img/d4.jpg",
+        "title":"스마일리 코튼 슬리브 티 그린",
+        "price":"43000",
+        "origin":"국내산"
     },
     {
         "id":4,
-        "src":"/img/d4.jpg",
-        "name":"스마일리 코튼 슬리브 티 그린",
-        "price":"43,000"
+        "src":"/DogCatShop/img/d5.jpg",
+        "title":"몽슈슈 배드 독 점프수트 베이지",
+        "price":"39000",
+        "origin":"국내산"
     },
     {
         "id":5,
-        "src":"/img/d5.jpg",
-        "name":"몽슈슈 배드 독 점프수트 베이지",
-        "price":"39,000"
+        "src":"/DogCatShop/img/d6.jpg",
+        "title":"몽슈슈 알레스카 크루 숏 맨투맨 탑 코랄",
+        "price":"42000",
+        "origin":"국내산"
     },
     {
         "id":6,
-        "src":"/img/d6.jpg",
-        "name":"몽슈슈 알레스카 크루 숏 맨투맨 탑 코랄",
-        "price":"42,000"
+        "src":"/DogCatShop/img/d7.jpg",
+        "title":"몽슈슈 텐이어스 영 독 슬리브리스 티 베이지",
+        "price":"33000",
+        "origin":"국내산"
     },
     {
         "id":7,
-        "src":"/img/d7.jpg",
-        "name":"몽슈슈 텐이어스 영 독 슬리브리스 티 베이지",
-        "price":"33,000"
-    },
-    {
-        "id":8,
-        "src":"/img/d8.jpg",
-        "name":"강아지나시티 트로피칼 체리",
-        "price":"18,000"
+        "src":"/DogCatShop/img/d8.jpg",
+        "title":"강아지나시티 트로피칼 체리",
+        "price":"18000",
+        "origin":"국내산"
     }
 ]

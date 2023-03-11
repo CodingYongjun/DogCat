@@ -2,49 +2,57 @@
     {
         "id":0,
         "src":"/DogCatShop/img/dkf1.jpg",
-        "name":"도비 스페셜 10kg",
-        "price":"27100"
+        "title":"도비 스페셜 10kg",
+        "price":"27100",
+        "origin":"국내산"
     },
     {
         "id":1,
         "src":"/DogCatShop/img/dkf2.jpg",
-        "name":"도비 프로페셔녈 10kg",
-        "price":"26130"
+        "title":"도비 프로페셔녈 10kg",
+        "price":"26130",
+        "origin":"국내산"
     },
     {
         "id":2,
         "src":"/DogCatShop/img/dkf3.jpg",
-        "name":"도비 다이어트 3kg",
-        "price":"15200"
+        "title":"도비 다이어트 3kg",
+        "price":"15200",
+        "origin":"국내산"
     },
     {
         "id":3,
         "src":"/DogCatShop/img/dkf4.jpg",
-        "name":"도비 어덜트 4.5kg",
-        "price":"22600"
+        "title":"도비 어덜트 4.5kg",
+        "price":"22600",
+        "origin":"국내산"
     },
     {
         "id":4,
         "src":"/DogCatShop/img/dkf5.jpg",
-        "name":"도비 시니어 5kg",
-        "price":"22300"
+        "title":"도비 시니어 5kg",
+        "price":"22300",
+        "origin":"국내산"
     },
     {
         "id":5,
         "src":"/DogCatShop/img/dkf6.jpg",
-        "name":"옵티원 연어 오트밀 4.8kg",
-        "price":"34000"
+        "title":"옵티원 연어 오트밀 4.8kg",
+        "price":"34000",
+        "origin":"국내산"
     },
     {
         "id":6,
         "src":"/DogCatShop/img/dkf7.jpg",
-        "name":"옵티원 양고기 고구마 4.8kg",
-        "price":"34000"
+        "title":"옵티원 양고기 고구마 4.8kg",
+        "price":"34000",
+        "origin":"국내산"
     },
     {
         "id":7,
         "src":"/DogCatShop/img/dkf8.jpg",
-        "name":"옵티원 오리현미 1kg",
-        "price":"11200"
+        "title":"옵티원 오리현미 1kg",
+        "price":"11200",
+        "origin":"국내산"
     }
 ]

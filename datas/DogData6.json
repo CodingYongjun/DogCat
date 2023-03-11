@@ -1,32 +1,37 @@
 [
     {
+        "id":0,
+        "src":"/DogCatShop/img/on1.jpg",
+        "title":"이츠독 곰고미 순면 올인원",
+        "price":"27000",
+        "origin":"국내산"
+    },
+    {
         "id":1,
-        "src":"/img/on1.jpg",
-        "name":"이츠독 곰고미 순면 올인원",
-        "price":"27,000"
+        "src":"/DogCatShop/img/on2.jpg",
+        "title":"몽슈슈 먼데이 투 선데이 올인원 차콜",
+        "price":"38000",
+        "origin":"국내산"
     },
     {
         "id":2,
-        "src":"/img/on2.jpg",
-        "name":"몽슈슈 ㅓㅁㄴ데이 투 선데이 올인원 차콜",
-        "price":"38,000"
+        "src":"/DogCatShop/img/on3.jpg",
+        "title":"로로독 모더니즈한복 올인원",
+        "price":"34000",
+        "origin":"국내산"
     },
     {
         "id":3,
-        "src":"/img/on3.jpg",
-        "name":"로로독 모더니즈한복 올인원",
-        "price":"34,000"
+        "src":"/DogCatShop/img/on4.jpg",
+        "title":"로로독 로렌하이 올인원 네이비",
+        "price":"28000",
+        "origin":"국내산"
     },
     {
         "id":4,
-        "src":"/img/on4.jpg",
-        "name":"로로독 로렌하이 올인원 네이비",
-        "price":"28,000"
-    },
-    {
-        "id":5,
-        "src":"/img/on5.jpg",
-        "name":"로로독 롱데일리버튼 베이지 올인원",
-        "price":"26,000"
+        "src":"/DogCatShop/img/on5.jpg",
+        "title":"로로독 롱데일리버튼 베이지 올인원",
+        "price":"26000",
+        "origin":"국내산"
     }
 ]

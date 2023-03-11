@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/DogCatShop/static/css/main.f83f05d1.css",
-    "main.js": "/DogCatShop/static/js/main.3998cba6.js",
+    "main.css": "/DogCatShop/static/css/main.4c170007.css",
+    "main.js": "/DogCatShop/static/js/main.fe1b96bf.js",
     "static/js/787.9948979a.chunk.js": "/DogCatShop/static/js/787.9948979a.chunk.js",
+    "static/media/dog.png": "/DogCatShop/static/media/dog.a8a08b3bb8835a30bcc6.png",
+    "static/media/cat.png": "/DogCatShop/static/media/cat.086170a1fe87f4306925.png",
+    "static/media/logo.png": "/DogCatShop/static/media/logo.ca221671e87692a1ccdc.png",
+    "static/media/cart.png": "/DogCatShop/static/media/cart.c4709ce9e764277ac7d1.png",
+    "static/media/DCdog.png": "/DogCatShop/static/media/DCdog.177c777e72a567e32341.png",
     "static/media/slick.svg": "/DogCatShop/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/DogCatShop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/DogCatShop/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/DogCatShop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/DogCatShop/index.html",
-    "main.f83f05d1.css.map": "/DogCatShop/static/css/main.f83f05d1.css.map",
-    "main.3998cba6.js.map": "/DogCatShop/static/js/main.3998cba6.js.map",
+    "main.4c170007.css.map": "/DogCatShop/static/css/main.4c170007.css.map",
+    "main.fe1b96bf.js.map": "/DogCatShop/static/js/main.fe1b96bf.js.map",
     "787.9948979a.chunk.js.map": "/DogCatShop/static/js/787.9948979a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f83f05d1.css",
-    "static/js/main.3998cba6.js"
+    "static/css/main.4c170007.css",
+    "static/js/main.fe1b96bf.js"
   ]
 }
