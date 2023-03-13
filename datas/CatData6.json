@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/con1.jpg",
+        "title":"딩동펫 부띠크 파자마 잠옷",
+        "price":"10100",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/con2.jpg",
+        "title":"도그아이 러블리 원피스",
+        "price":"12900",
+        "origin":"국내산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/con3.jpg",
+        "title":"구르미 꽃무늬 레이스 원피스",
+        "price":"11900",
+        "origin":"국내산"
+    }
+]

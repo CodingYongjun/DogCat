@@ -1,0 +1,37 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/ct1.jpg",
+        "title":"딩동펫 움직이는 파닥피쉬",
+        "price":"9800",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/ct2.jpg",
+        "title":"딩동펫 낚시대 우드",
+        "price":"7900",
+        "origin":"국내산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/ct3.jpg",
+        "title":"딩동펫 컬러풀 낚싯대 8종 세트",
+        "price":"8500",
+        "origin":"국내산"
+    },
+    {
+        "id":3,
+        "src":"/DogCatShop/img/ct4.jpg",
+        "title":"딩동펫 오로라 냥이볼 7p세트 소형",
+        "price":"7900",
+        "origin":"국내산"
+    },
+    {
+        "id":4,
+        "src":"/DogCatShop/img/ct5.jpg",
+        "title":"발라당 반자동 움직이는 공놀이 4단",
+        "price":"8200",
+        "origin":"국내산"
+    }
+]

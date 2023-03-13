@@ -1,0 +1,16 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/cou1.jpg",
+        "title":"도그도그 보라해토끼 털 후드티",
+        "price":"45000",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/cou2.jpg",
+        "title":"코코테일 히말라야 초경량 방한용 패딩",
+        "price":"99900",
+        "origin":"국내산"
+    }
+]

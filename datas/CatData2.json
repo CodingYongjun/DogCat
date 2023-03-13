@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/cif1.jpg",
+        "title":"아라톤 어덜트 살몬 1.5kg",
+        "price":"21420",
+        "origin":"수입산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/cif2.jpg",
+        "title":"아라톤 키튼 살몬 1.5kg",
+        "price":"18900",
+        "origin":"수입산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/cif3.jpg",
+        "title":"내추럴발란스 인도어 포뮬라 3kg",
+        "price":"36500",
+        "origin":"수입산"
+    },
+    {
+        "id":3,
+        "src":"/DogCatShop/img/cif4.jpg",
+        "title":"내추럴발란스 울트라 프리미엄 닭&연어 2.4kg",
+        "price":"27800",
+        "origin":"수입산"
+    },
+    {
+        "id":4,
+        "src":"/DogCatShop/img/cif5.jpg",
+        "title":"로얄캐닌 키튼 4kg",
+        "price":"56800",
+        "origin":"수입산"
+    },
+    {
+        "id":5,
+        "src":"/DogCatShop/img/cif6.jpg",
+        "title":"로얄캐닌 인도어 4kg",
+        "price":"59800",
+        "origin":"수입산"
+    }
+]

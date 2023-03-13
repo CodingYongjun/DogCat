@@ -1,0 +1,37 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/cd1.jpg",
+        "title":"코코테일 레드고양이 티셔츠",
+        "price":"21300",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/cd2.jpg",
+        "title":"펫츠랜드 달콤 티셔츠",
+        "price":"10800",
+        "origin":"국내산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/cd3.jpg",
+        "title":"딩동펫 쁘띠 공룡 후드 티셔츠",
+        "price":"10200",
+        "origin":"국내산"
+    },
+    {
+        "id":3,
+        "src":"/DogCatShop/img/cd4.jpg",
+        "title":"빌리웨이 체크 스커트 교복",
+        "price":"16420",
+        "origin":"국내산"
+    },
+    {
+        "id":4,
+        "src":"/DogCatShop/img/cd5.jpg",
+        "title":"도그도그 하양토기 티셔츠",
+        "price":"11000",
+        "origin":"국내산"
+    }
+]

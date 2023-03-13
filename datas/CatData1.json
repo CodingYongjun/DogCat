@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/ckf1.jpg",
+        "title":"캐츠랑 키튼 2kg",
+        "price":"10800",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/ckf2.jpg",
+        "title":"캐츠랑 어덜트 2kg",
+        "price":"10300",
+        "origin":"국내산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/ckf3.jpg",
+        "title":"캐츠랑 전연령 리브레 5kg",
+        "price":"16500",
+        "origin":"국내산"
+    },
+    {
+        "id":3,
+        "src":"/DogCatShop/img/ckf4.jpg",
+        "title":"인디고 아기고양이 사료 면역 앤 장포키튼 2kg",
+        "price":"29500",
+        "origin":"국내산"
+    },
+    {
+        "id":4,
+        "src":"/DogCatShop/img/ckf5.jpg",
+        "title":"인디고 신장 사료 면역 앤 유리너리 포 캣 2kg",
+        "price":"29500",
+        "origin":"국내산"
+    },
+    {
+        "id":5,
+        "src":"/DogCatShop/img/ckf6.jpg",
+        "title":"인디고 유산균 사료 면역 앤 헤어볼 포 캣 2kg",
+        "price":"29500",
+        "origin":"국내산"
+    }
+]

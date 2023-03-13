@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "src":"/DogCatShop/img/cnw1.jpg",
+        "title":"펫버틀러 먹이퍼즐",
+        "price":"18600",
+        "origin":"국내산"
+    },
+    {
+        "id":1,
+        "src":"/DogCatShop/img/cnw2.jpg",
+        "title":"애블리즈 난이도조절 먹이퍼즐,토이볼",
+        "price":"23800",
+        "origin":"국내산"
+    },
+    {
+        "id":2,
+        "src":"/DogCatShop/img/cnw3.jpg",
+        "title":"블럭마트 오뚝이 사료 장난감",
+        "price":"13500",
+        "origin":"국내산"
+    }
+]
